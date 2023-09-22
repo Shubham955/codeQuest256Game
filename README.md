@@ -8,7 +8,11 @@ Java needs to be installed in the system to run this game.
 2. **Compile and Run the Game**:
    - Open Repository folder as workplace folder in Java IDE. But you may face Word wrap problem in Eclipse console as long sentences in Eclipse console don't get word wrapped. **So, Please play game in CMD for better experience**
    - Go to Repository folder\QuestOfAiGame\src. Open cmd here and type following commands:-
-     a) Compile the game with following command:
-       ```javac AiQuestGame.java```
-     b) Enjoy your exploration using:
-       ```java AiQuestGame```
+     *   Compile the game with following command:
+       ```
+     javac AiQuestGame.java
+       ```
+     *   Enjoy your exploration using:
+       ```
+     java AiQuestGame
+       ```
