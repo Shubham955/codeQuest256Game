@@ -20,9 +20,12 @@ Java needs to be installed in the system to run this game.
 1. **Enter your name**: At start, you will be prompted to enter your name. Provide your name and press Enter to start your Exploration.
 2. **Resources**: You are armed with your trusty Laptop and a backpack filled with Gadgets.
 3. **Understand the Digital Realm**:
+   Layout of this Digital Realm is similar to below maze:-
+   ![CROPPED COPY 360_F_425968328_pK0jApEgVpTCkhS7GyfCId1pcTYBNBf2](https://github.com/Shubham955/codeQuest256Game/assets/33603631/e763eec0-5063-4eb8-b0a3-71e1d33615f1)
+   **Terminology of Digital Realm:**
    *   *Turn*: At Turns, your exploration path takes a turn.
    *   *Cross Road*: At Cross Roads, you find interesting paths to decide upon, and if your Luck works out, then you can earn hints at Cross Roads.
    *   *Dead End*: At Dead Ends, either you enjoy Torturous Deaths or lose some of your Resources.
-4. **Strategize Your Moves**: Don't provide Direction input opposite to as entered in Previous Direction input, otherwise, you might land up exploring same area again and again...
+5. **Strategize Your Moves**: Don't provide Direction input opposite to as entered in Previous Direction input, otherwise, you might land up exploring same area again and again...
 ## Victory or Defeat
 Your ultimate goal is to find out AI. But, practice caution. You might end up exhausting your lives. On the good side, you can also end up finding AI helping world solve complex problems, do advance scientific research, and to make the world a better place to live.
