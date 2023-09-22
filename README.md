@@ -21,7 +21,7 @@ Java needs to be installed in the system to run this game.
 2. **Resources**: You are armed with your trusty Laptop and a backpack filled with Gadgets.
 3. **Understand the Digital Realm**:
    Layout of this Digital Realm is similar to below maze:-
-   ![CROPPED COPY 360_F_425968328_pK0jApEgVpTCkhS7GyfCId1pcTYBNBf2](https://github.com/Shubham955/codeQuest256Game/assets/33603631/e763eec0-5063-4eb8-b0a3-71e1d33615f1)
+      ![CROPPED COPY 360_F_425968328_pK0jApEgVpTCkhS7GyfCId1pcTYBNBf2](https://github.com/Shubham955/codeQuest256Game/assets/33603631/e763eec0-5063-4eb8-b0a3-71e1d33615f1)
    **Terminology of Digital Realm:**
    *   *Turn*: At Turns, your exploration path takes a turn.
    *   *Cross Road*: At Cross Roads, you find interesting paths to decide upon, and if your Luck works out, then you can earn hints at Cross Roads.
