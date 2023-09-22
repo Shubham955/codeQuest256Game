@@ -1,6 +1,6 @@
 # Quest of AI Game
 ## Introduction
-This repository contains the source code for a Java-based Quest of AI game. In this, you are the Explorer and you are on a mission to find AI lost in a digital realm. Exploring twists and turns of this realm, you have to reach AI.
+This repository contains the source code for a Java-based Quest of AI game. In this, you are the Explorer and you are on a mission to find Artificial Intelligence(AI) lost in a digital realm. Exploring twists and turns of this realm, you have to reach AI.
 ## Installation
 Java needs to be installed in the system to run this game.
 ## How to Play
@@ -21,6 +21,8 @@ Java needs to be installed in the system to run this game.
 2. **Resources**: You are armed with your trusty Laptop and a backpack filled with Gadgets.
 3. **Understand the Digital Realm**:
    *   *Turn*: At Turns, your exploration path takes a turn.
-   *   *Cross Road*: At Cross Roads, you find interesting paths to decide upon, and if your Luck works out, then you can earn hints at cross roads.
-   *   *Dead End*: At Dead Ends, either you lose your Life or some of your Resources.
+   *   *Cross Road*: At Cross Roads, you find interesting paths to decide upon, and if your Luck works out, then you can earn hints at Cross Roads.
+   *   *Dead End*: At Dead Ends, either you enjoy Torturous Deaths or lose some of your Resources.
 4. **Strategize Your Moves**: Don't provide Direction input opposite to as entered in Previous Direction input, otherwise, you might land up exploring same area again and again...
+## Victory or Defeat
+Your ultimate goal is to find out AI. But, practice caution. You might end up exhausting your lives. On the good side, you can also end up finding AI helping world solve complex problems, do advance scientific research, and to make the world a better place to live.
