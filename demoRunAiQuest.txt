@@ -1,0 +1,84 @@
+Welcome to the Quest of AI
+Please Enter your name
+Shubham
+Hi, Shubham!! You have got powers of John McCarthy, and your mission is to find Artificial Intelligence(AI) which lies hidden in the depths of a digital realm. This forest is rumored to be a place where magic and technology intertwine, and where ancient wisdom waits to be discovered. Armed with your trusty laptop and a backpack filled with gadgets, you set off on a journey. Explore in directions north, south, east, west (n,s,e,w). You have got 3 lives.
+Start exploration by going north. Provide your first direction to move
+n
+You have reached at Turn 1
+Which direction you want to go? You can go in 's' or 'w' direction
+w
+You have reached at Turn 2
+Which direction you want to go? You can go in 'n' or 'e' direction
+n
+You have reached at Turn 3
+Which direction you want to go? You can go in 's' or 'w' direction
+w
+You have reached at Cross Road 1
+Which direction you want to go? You can go in 'n' or 's' or 'e' direction
+n
+You have reached at Turn 6
+Which direction you want to go? You can go in 's' or 'e' direction
+e
+You have reached at Turn 7
+Which direction you want to go? You can go in 'n' or 'w' direction
+n
+You have reached at Turn 8
+Which direction you want to go? You can go in 's' or 'e' direction
+e
+You have reached at Cross Road 3. On North, there is an Open route, and On South, there is a route locked by a Fingerprint Scanner
+Do you want to solve a complex algorithm for earning a hint?(y/n)
+y
+Great:), Using your Laptop you solved a complex algorithm, and Earned a Hint. You should go towards 's'
+Which direction you want to go? You can go in 'n' or 's' or 'w' direction
+s
+Great! You faked fingerprint of John McCarthy. Route Unlocks!!
+You have reached at Turn 11
+Which direction you want to go? You can go in 'n' or 'e' direction
+e
+You have reached at Cross Road 4. On East, there is a route locked by High Frequency rays, and On South, there is an Open route
+Do you want to solve a complex algorithm for earning a hint?(y/n)
+y
+Great:), Using your Laptop you solved a complex algorithm, and Earned a Hint. You should go towards 'e'
+Which direction you want to go? You can go in 's' or 'w' or 'e' direction
+e
+Amazing! Your Gadgets have proved helpful in disabling High Frequency rays
+You have reached at Cross Road 7
+Do you want to solve a complex algorithm for earning a hint?(y/n)
+y
+Great:), Using your Laptop you solved a complex algorithm, and Earned a Hint. You should go towards 'n'
+Which direction you want to go? You can go in 'n' or 'w' or 'e' direction
+n
+You have reached at Cross Road 8. On North, there is a massive Door locked by a super complex algorithm, and On East, there is a route locked by High Frequency rays
+Which direction you want to go? You can go in 'n' or 's' or 'e' direction
+e
+Amazing! Your Gadgets have proved helpful in disabling High Frequency rays
+You have reached at Turn 20
+Which direction you want to go? You can go in 'n' or 'w' direction
+n
+Watch out! You are at end of the Cliff! Damn! You slipped. Thank God!, You got saved in the nick of the time but you have lost your Laptop
+Which direction you want to go? You can go in 's' direction
+s
+You have reached at Turn 20
+Which direction you want to go? You can go in 'n' or 'w' direction
+w
+You have reached at Cross Road 8. On North, there is a massive Door locked by a super complex algorithm, and On East, there is a route locked by High Frequency rays
+Which direction you want to go? You can go in 'n' or 's' or 'e' direction
+n
+Shit! You have lost your Laptop. Oh no! What are you doing, opening this door forcefully is impossible. Ohh! Door breaks. Route unlocks!! You are truly a brawny
+You have reached at Turn 21
+Which direction you want to go? You can go in 's' or 'w' direction
+w
+You have reached at Cross Road 9
+Which direction you want to go? You can go in 's' or 'e' or 'n' direction
+s
+You have reached at Turn 22
+Which direction you want to go? You can go in 'n' or 'e' direction
+e
+Mayday..Mayday.., You have got surrounded by millions of Digital scary screens, and they are coming closer and closer to you. Screens are closing on you and oh no! oh no! you are suffocating to death. RIP! May 'God bless you'!
+
+You are left with 2 live(s). You have been revived and you have gained your lost resources (if any lost)
+
+You have reached at Cross Road 9
+Which direction you want to go? You can go in 's' or 'e' or 'n' direction
+n
+Hooray:)<3, You have found AI after a battle of wits and determination. AI was waiting for someone worthy of unlocking its potential. You and Your Quest for the AI has become a tale of inspiration for generations to come
